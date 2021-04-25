@@ -1,0 +1,56 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\duviv\\AndroidStudioProjects\\FoodieApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\duviv\\.gradle\\caches\\transforms-2\\files-2.1\\5e7952ce47f7deafd5c239fcd8d1556a\\support-compat-27.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "2872",
+                        "endColumns": "100",
+                        "endOffsets": "2968"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\duviv\\AndroidStudioProjects\\FoodieApp\\app\\src\\main\\res\\values-fr-rCA\\strings.xml",
+                    "from": {
+                        "startLines": "-1,17,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,987,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,80,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,1063,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29,31,32,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1937,2023,2104,2163,2218,2258,2304,2347,2414,2552,2613,2742,2808,2973,3018,3070",
+                        "endColumns": "85,80,58,54,39,45,42,66,137,60,42,65,63,44,51,49",
+                        "endOffsets": "2018,2099,2158,2213,2253,2299,2342,2409,2547,2608,2651,2803,2867,3013,3065,3115"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\duviv\\.gradle\\caches\\transforms-2\\files-2.1\\9ee070f938f6ccda498af78bad834455\\appcompat-v7-27.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,2656",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2737"
+                    }
+                }
+            ]
+        }
+    ]
+}

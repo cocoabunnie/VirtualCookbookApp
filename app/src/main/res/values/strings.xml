@@ -1,0 +1,203 @@
+
+<resources>
+    <string name="app_name">Food App!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="recipesample">RecipeSample</string>
+    <string name="currdescriptionsample">currDescriptionSample</string>
+    <string name="recipetitledefault">recipeTitleDefault</string>
+    <string name="add_an_item">Add An Item</string>
+    <string name="name_of_recipe">Name of Recipe</string>
+    <string name="short_description">Short Description</string>
+    <string name="recipe">Recipe:</string>
+    <string name="type_here">Type here...</string>
+    <string name="make_sure_to_add_the_ingredients_along_with_the_steps">Write your recipe here. Make sure to add the ingredients along with the steps! :)</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_an_image">Select an Image</string>
+    <string name="browse">Browse</string>
+    <string name="sample_calories">sample Calories</string>
+    <string name="add_a_name_for_your_recipe">Add A Name For Your Recipe</string>
+    <string name="how_many_calories">How Many Calories?</string>
+    <string name="back">Back</string>
+    <string name="add_a_short_description">Add A Short Description</string>
+
+    <string-array name="dessertTitles">
+        <item>Chocolate Cake</item>
+        <item>Strawberry Jell-O</item>
+        <item>Pina Colada</item>
+        <item>Banana Smoothie</item>
+        <item>Creme Brulee</item>
+        <item>Crepe</item>
+    </string-array>
+
+    <string-array name="dessertDescription">
+        <item>Heres a recipe for a delicious chocolate cake!</item>
+        <item>A nice and easy light dessert that wont fill you up too quickly</item>
+        <item>If you like pina colada.... getting caught in the rain...</item>
+        <item>Nice and healthy fruit smoothie</item>
+        <item>Bring France right to your kitchen with this simple and easy dessert</item>
+        <item>Simple and easy crepe recipe!</item>
+    </string-array>
+
+    <string-array name="dessertRecipes">
+        <item>
+            INGREDIENTS\n\n
+
+            2 cups all-purpose flour\n
+            2 cups sugar\n
+            3/4 cup unsweetened cocoa powder\n
+            2 teaspoons baking powder\n
+            1 1/2 teaspoons baking soda\n
+            1 teaspoon salt\n
+            1 teaspoon espresso powder homemade or store-bought\n
+            1 cup milk or buttermilk, almond, or coconut milk\n
+            1/2 cup vegetable oil or canola oil, or melted coconut oil\n
+            2 large eggs\n
+            2 teaspoons vanilla extract\n
+            1 cup boiling water\n
+            Chocolate Buttercream Frosting Recipe\n\n
+
+            DIRECTIONS\n\n
+
+            Preheat oven to 350º F. Prepare two 9-inch cake pans by spraying with baking spray or buttering and lightly flouring.\n
+            For the chocolate cake:\n
+            Add flour, sugar, cocoa, baking powder, baking soda, salt and espresso powder to a large bowl or the bowl of a stand mixer. Whisk through to combine or, using your paddle attachment, stir through flour mixture until combined well.\n
+            Add milk, vegetable oil, eggs, and vanilla to flour mixture and mix together on medium speed until well combined. Reduce speed and carefully add boiling water to the cake batter until well combined.\n
+            Distribute cake batter evenly between the two prepared cake pans. Bake for 30-35 minutes, until a toothpick or cake tester inserted in the center of the chocolate cake comes out clean.\n
+            Remove from the oven and allow to cool for about 10 minutes, remove from the pan and cool completely.\n
+            Frost cake with Chocolate Buttercream Frosting.\n\n
+
+            Source: https://addapinch.com/the-best-chocolate-cake-recipe-ever/
+
+        </item>
+
+        <item>
+            INGREDIENTS\n\n
+
+            Strawberries (1 pack should be enough)\n
+            Water\n
+            Honey\n
+            Lemon juice\n
+            Gelatin\n\n
+
+            DIRECTIONS\n\n
+
+            Puree strawberries, water, honey, and lemon juice. Mix the gelatin with a little bit of the puree.\n
+            Heat puree and stir in gelatin mixture.\n
+            Chill!\n\n
+
+            Source: https://mommypotamus.com/strawberry-jello-recipe/
+
+        </item>
+
+        <item>
+            INGREDIENTS\n\n
+
+            1 pound (about 3 cups) frozen pineapple chunks\n
+            3 ounces (1/3 cup) white rum\n
+            2/3 cup coconut milk\n
+            optional garnishes: fresh pineapple slices, maraschino cherries, cute paper umbrellas\n\n
+
+            DIRECTIONS\n\n
+
+            Combine all ingredients together in a blender, and puree until smooth.  If the mixture is too thick, feel free to add in extra water or coconut milk to help it blend.\n
+            Serve immediately, topped with your desired garnishes.\n\n
+
+            Source: https://www.gimmesomeoven.com/pina-colada-recipe/
+        </item>
+
+        <item>
+            INGREDIENTS\n\n
+
+            Bananas! The ripeness of your bananas will affect the taste of your smoothie. For a sweeter smoothie, use bananas that are more ripe. Frozen bananas are best because they help to thicken the smoothie. If you forget to plan ahead and don’t have frozen bananas, you can use fresh. If using fresh bananas you may want to blend in a few ice cubes to chill the smoothie.\n
+            Greek Yogurt. Plain Greek yogurt is my preference to keep this smoothie lower in sugar, but you can also use vanilla yogurt.\n
+            Milk. Use your milk of choice. Dairy, almond milk and oat milk are all good options.\n
+            Vanilla. A little bit of vanilla extract adds a hint of sweetness and delicious flavor to this banana smoothie. You can omit the vanilla extract if you’re using vanilla Greek yogurt.\n\n
+
+            DIRECTIONS\n\n
+
+            Use at least one frozen ingredient in your smoothie. Frozen fruit or veggies, such as cauliflower, help to thicken and chill your smoothie.\n
+            Err on the side of using less liquid to begin with. You can always add more liquid to get to your desired consistency.\n
+            Layer the smoothie ingredients for the most efficient blending. Greens, such as spinach or kale, should be at the bottom of the blender to give them a head start on blending up smoothly. The same goes for raw oats, nuts and frozen fruit. Add ingredients such as nut butters or yogurt on top of the fruits and vegetables to prevent them from sticking to the bottom of your blender.\n
+            Begin blending on low speed and increase to higher speed as the smoothie starts to blend together.\n
+            Don’t overfill the blender. If you are making a double or triple batch of smoothies to feed a crowd, start by adding only part of the frozen ingredients. Then add more once you get the first addition blended smooth. I do this when I make enough smoothies to feed myself and my four kids. If you fill the blender too full to start with it will be difficult to blend the smoothie.\n
+            As you blend, you may have to occasionally stop and stir, shake, or use your blender’s tamper to mix the ingredients. Sometimes you can get an air bubble at the bottom that prevents the blender from mixing the smoothie.\n
+            If you make smoothies often, a high powered blender can save you time and effort.\n\n
+
+            Source: https://kristineskitchenblog.com/banana-smoothie/
+        </item>
+
+        <item>
+            INGREDIENTS\n\n
+
+            2 cups heavy or light cream, or half-and-half\n
+            1 vanilla bean, split lengthwise, or 1 teaspoon vanilla extract\n
+            ⅛ teaspoon salt\n
+            5 egg yolks\n
+            ½ cup sugar, more for topping\n\n
+
+            DIRECTIONS\n\n
+
+            Heat oven to 325 degrees. In a saucepan, combine cream, vanilla bean and salt and cook over low heat just until hot. Let sit for a few minutes, then discard vanilla bean. (If using vanilla extract, add it now.)\n
+            In a bowl, beat yolks and sugar together until light. Stir about a quarter of the cream into this mixture, then pour sugar-egg mixture into cream and stir. Pour into four 6-ounce ramekins and place ramekins in a baking dish; fill dish with boiling water halfway up the sides of the dishes. Bake for 30 to 40 minutes, or until centers are barely set. Cool completely. Refrigerate for several hours and up to a couple of days.\n
+            When ready to serve, top each custard with about a teaspoon of sugar in a thin layer. Place ramekins in a broiler 2 to 3 inches from heat source. Turn on broiler. Cook until sugar melts and browns or even blackens a bit, about 5 minutes. Serve within two hours.\n\n
+
+            Source: https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee
+        </item>
+
+        <item>
+            INGREDIENTS\n\n
+
+            1 cup all-purpose flour\n
+            2 eggs\n
+            ½ cup milk\n
+            ½ cup water\n
+            ¼ teaspoon salt\n
+            2 tablespoons butter, melted\n\n
+
+            DIRECTIONS\n\n
+
+            Step 1\n
+            In a large mixing bowl, whisk together the flour and the eggs. Gradually add in the milk and water, stirring to combine. Add the salt and butter; beat until smooth.\n
+
+            Step 2\n
+            Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each crepe. Tilt the pan with a circular motion so that the batter coats the surface evenly.\n
+
+            Step 3\n
+            Cook the crepe for about 2 minutes, until the bottom is light brown. Loosen with a spatula, turn and cook the other side. Serve hot.\n\n
+
+            Source: https://www.allrecipes.com/recipe/16383/basic-crepes/
+        </item>
+
+
+    </string-array>
+
+    <array name="dessertImages">
+        <item>@drawable/chocolatecake</item>
+        <item>@drawable/strawberryjello</item>
+        <item>@drawable/pinacolada</item>
+        <item>@drawable/bananasmoothie</item>
+        <item>@drawable/cremebrulee</item>
+        <item>@drawable/crepe</item>
+    </array>
+
+    <array name = "defaultImage">
+        <item>@drawable/android</item>
+    </array>
+
+    <string-array name="language">
+        <item>French</item>
+    </string-array>
+
+    <string-array name="dessertCalories">
+        <item>120</item>
+        <item>45</item>
+        <item>526</item>
+        <item>100</item>
+        <item>210</item>
+        <item>55</item>
+    </string-array>
+
+</resources>

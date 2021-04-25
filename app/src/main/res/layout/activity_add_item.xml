@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddItemActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/activityHeading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/amaranth"
+                android:text="@string/add_an_item"
+                android:textColor="#0E0E0E"
+                android:textSize="25sp" />
+
+            <EditText
+                android:id="@+id/inputName"
+                android:layout_width="404dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/add_a_name_for_your_recipe"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/inputDescription"
+                android:layout_width="401dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/add_a_short_description"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/inputCalories"
+                android:layout_width="393dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/how_many_calories"
+                android:inputType="number|textPersonName" />
+
+            <EditText
+                android:id="@+id/inputRecipe"
+                android:layout_width="396dp"
+                android:layout_height="332dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:hint="@string/make_sure_to_add_the_ingredients_along_with_the_steps"
+                android:inputType="textMultiLine" />
+
+            <Button
+                android:id="@+id/submitButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="submitButtonCode"
+                android:text="@string/submit" />
+
+            <Button
+                android:id="@+id/cancelButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="cancelButtonCode"
+                android:text="@string/cancel" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

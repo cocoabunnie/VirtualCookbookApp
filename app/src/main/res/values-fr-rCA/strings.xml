@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de nourriture</string>
+    <string name="title_placeholder">Titre</string>
+    <string name="browse">Feuilleter</string>
+    <string name="select_an_image">sélectioner une image</string>
+    <string name="cancel">annuler</string>
+    <string name="submit">D\'Accord</string>
+    <string name="make_sure_to_add_the_ingredients_along_with_the_steps">Assurez-vous d\'ajouter les ingrédients avec les étapes</string>
+    <string name="type_here">Écrivez ici</string>
+    <string name="recipe">Recette</string>
+    <string name="short_description">Brève description</string>
+    <string name="name_of_recipe">Nom de la recette</string>
+    <string name="add_an_item">Ajouter un article</string>
+    <string name="how_many_calories">Combien de calories?</string>
+    <string name="back">Retour</string>
+    <string name="add_a_name_for_your_recipe">Ajoutez un num á votre recette</string>
+    <string name="add_a_short_description">Ajoute une bréve description</string>
+</resources>

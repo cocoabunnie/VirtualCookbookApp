@@ -1,0 +1,20 @@
+com/example/android/materialme/AddItemActivity.java
+ com.example.android.materialme.AddItemActivity
+ com.example.android.materialme.AddItemActivity$1
+ com.example.android.materialme.AddItemActivity$2
+com/example/android/materialme/MealItemAdapter.java
+ com.example.android.materialme.MealItemAdapter
+ com.example.android.materialme.MealItemAdapter$1
+ com.example.android.materialme.MealItemAdapter$1$1
+ com.example.android.materialme.MealItemAdapter$1$2
+ com.example.android.materialme.MealItemAdapter$2
+ com.example.android.materialme.MealItemAdapter$ViewHolder
+com/example/android/materialme/BuildConfig.java
+ com.example.android.materialme.BuildConfig
+com/example/android/materialme/MainActivity.java
+ com.example.android.materialme.MainActivity
+com/example/android/materialme/MealItem.java
+ com.example.android.materialme.MealItem
+ com.example.android.materialme.MealItem$1
+com/example/android/materialme/DessertRecipes.java
+ com.example.android.materialme.DessertRecipes

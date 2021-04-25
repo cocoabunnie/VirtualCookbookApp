@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ngamolsky.android.materialme"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:5:5-96
+11-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:5:22-77
+12
+13    <application
+13-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:7:5-26:19
+14        android:allowBackup="true"
+14-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:8:9-35
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:9:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:10:9-41
+18        android:supportsRtl="true"
+18-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity android:name="com.example.android.materialme.AddItemActivity" />
+21-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:13:9-62
+21-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:13:19-50
+22        <activity android:name="com.example.android.materialme.DessertRecipes" />
+22-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:14:9-52
+22-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:14:19-49
+23        <activity android:name="com.example.android.materialme.MainActivity" >
+23-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:15:9-21:20
+23-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:15:19-47
+24            <intent-filter>
+24-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:17:17-69
+25-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:19:17-77
+27-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <meta-data
+31-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:23:9-25:57
+32            android:name="preloaded_fonts"
+32-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:24:13-43
+33            android:resource="@array/preloaded_fonts" />
+33-->C:\Users\duviv\AndroidStudioProjects\FoodieApp\app\src\main\AndroidManifest.xml:25:13-54
+34    </application>
+35
+36</manifest>

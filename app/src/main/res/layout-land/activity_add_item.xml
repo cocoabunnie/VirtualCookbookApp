@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddItemActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/activityHeading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/add_an_item"
+                android:textColor="#090808"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/inputName"
+                android:layout_width="427dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:ems="10"
+                android:hint="@string/type_here"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/inputDescription"
+                android:layout_width="427dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:ems="10"
+                android:hint="@string/type_here"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/inputCalories"
+                android:layout_width="427dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:ems="10"
+                android:hint="@string/how_many_calories"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/inputRecipe"
+                android:layout_width="428dp"
+                android:layout_height="98dp"
+                android:layout_margin="5dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:hint="@string/make_sure_to_add_the_ingredients_along_with_the_steps"
+                android:inputType="textMultiLine" />
+
+            <Button
+                android:id="@+id/submitButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:onClick="submitButtonCode"
+                android:text="@string/submit" />
+
+            <Button
+                android:id="@+id/cancelButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:onClick="cancelButtonCode"
+                android:text="@string/cancel" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
